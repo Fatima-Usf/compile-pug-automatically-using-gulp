@@ -2,6 +2,7 @@
 
 
  **in case you do not have nodejs, npm, and gulp installed** 
+ <hr>
 `$ sudo add-apt-repository ppa:chris-lea/node.js 
 $ sudo apt-get update 
 $ sudo apt-get install nodejs 
