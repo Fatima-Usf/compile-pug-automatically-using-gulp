@@ -1,7 +1,7 @@
 # compile-pug-automatically-using-gulp
 
 
- **in case you do not have nodejs, npm, and gulp installed** 
+ **in case you do not have nodejs, npm, and gulp installed, you have to install them ** 
  <hr>
  
  
