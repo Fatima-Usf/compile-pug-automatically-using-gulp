@@ -1,7 +1,7 @@
 # compile-pug-automatically-using-gulp
 
 
-**in case you do not have nodejs, npm, and gulp installed**
+<h1> **in case you do not have nodejs, npm, and gulp installed** <h1/>
 `$ sudo add-apt-repository ppa:chris-lea/node.js 
 $ sudo apt-get update 
 $ sudo apt-get install nodejs 
