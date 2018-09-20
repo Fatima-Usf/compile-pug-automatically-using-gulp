@@ -13,7 +13,7 @@
 ` $ sudo apt-get install nodejs `
 
 
-` $ sudo npm install -g gulp `
+ ` $ sudo npm install -g gulp `
 <hr>
 
 **Install gulp in your project directory**
@@ -24,13 +24,14 @@
 `$ npm install --save-dev gulp `
 
 
- `$ npm install gulp-pug --save-dev`
+ 
 
 <hr> 
 
 
 **Put the file that I named (Gulpfile.js) into your project folder and run the following command**
 
+`$ npm install gulp-pug --save-dev`
 
 
 <hr>
