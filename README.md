@@ -21,17 +21,19 @@
 
 `$ cd ~/myproject `
 
+`$ npm install --save-dev gulp `
+
+
+ `$ npm install gulp-pug --save-dev`
+
 <hr> 
 
 
 **Put the file that I named (Gulpfile.js) into your project folder and run the following command**
 
 
-`$ npm install --save-dev gulp `
 
-
- `$ npm install gulp-pug --save-dev``
-`<hr>
+<hr>
 
 
 **Create the src folder that contains another folder called pug that contains the pug file (that you want to compile automatically)**
